@@ -1,2 +1,1 @@
-# rsschool-cv
-CV#1. Markdown &amp; Git
+https://Bogach-Dmitriy.github.io/rsschool-cv/

@@ -22,3 +22,10 @@ I want to become a Front-end Developer
 
     let result = sum(1, 2);
     alert( result );
+# Courses:
+* RS Schools «JavaScript/Front-end. Stage 0»
+* reeCodeCamp JavaScript Algorithms and Data Structures.
+
+# English level
+* English - A1+
+* Russian - Native

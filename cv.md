@@ -25,7 +25,7 @@ I want to become a Front-end Developer
     
 # Courses:
 * RS Schools «JavaScript/Front-end. Stage 0»
-* reeCodeCamp JavaScript Algorithms and Data Structures.
+* FreeCodeCamp JavaScript Algorithms and Data Structures.
 
 # English level
 * English - A1+

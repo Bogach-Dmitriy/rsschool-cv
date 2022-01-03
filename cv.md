@@ -13,3 +13,12 @@ I want to become a Front-end Developer
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
+* 
+# Code example:
+
+    function sum(a, b) {
+        return a + b;
+    }
+
+    let result = sum(1, 2);
+    alert( result );
